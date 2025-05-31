@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evomevo
 - 👀 I’m interested in art and meteorology
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning literally anything at this point
 - ⚡ Fun fact: I am currently being paid $0 per hour
 
 <!---
