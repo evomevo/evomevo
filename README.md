@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning JavaScript and TypeScript
 - ⚡ Fun fact: I am currently being paid $0 per hour
 
+Social media platforms I'm (not always) on:
+- Twitter/X: @evomevo
+- Bluesky: @evomevo.bsky.social
+- YouTube: @evomevo
+- GitHub: 🌀
+
 Enjoy looking at nothing!
 
 <!---
